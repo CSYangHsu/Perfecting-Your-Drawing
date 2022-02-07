@@ -5,12 +5,12 @@ Many drawing tools, such as iPad, have a function that when you are drawing a sh
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
+* [implement](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
+* [implement](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
