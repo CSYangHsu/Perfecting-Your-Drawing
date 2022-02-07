@@ -21,6 +21,6 @@ The formula can actually fit all kinds of curves from conic section.
 
 ## implement5
 ### introduce
-find the minimum enclosing circle for the given points.
+- find the minimum enclosing circle for the given points.
 
 ### demo
