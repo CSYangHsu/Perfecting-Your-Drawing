@@ -21,9 +21,9 @@ The formula can actually fit all kinds of curves from conic section.
 ### demo for circle
 - test1:
 
-![Example screenshot11](./img/case5.png)
+![Example screenshot11](./img/hand_draw_circle1.png)
 
-![Example screenshot12](./img/hand_draw_circle1.png)
+![Example screenshot12](./img/hand_draw_circle1_output.png)
 
 
 
