@@ -18,10 +18,13 @@ using least square algorithm ans the formula " c1 x^2 + c2 xy + c3 y^2 + c4 x + 
 The formula can actually fit all kinds of curves from conic section.
 
 
-### demo
+### demo for circle
+- test1:
+![Example screenshot](./img/case5.png)![Example screenshot](./img/case5_output.png)
 
-![Example screenshot](./img/case5.png)
 
+
+### demo for ellipse
 
 
 ## implement5
