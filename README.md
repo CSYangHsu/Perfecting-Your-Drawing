@@ -2,20 +2,13 @@
 Many drawing tools, such as iPad, have a function that when you are drawing a shape by hand, they will guess what it is, and make the best fit one to replace it. For example, if you draw a lopsided circle, it will produce a perfect one for it. In this assignment, i do that using the magic from linear algebra.
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [implement](#implement)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [implement](#acknowledgements)
-* [Contact](#contact)
+* [implement.py](#implement.py)
+* [implement5.py](#implement5.py)
+
 <!-- * [License](#license) -->
 
 
-## General Information
+## implement.py
 - Provide general information about your project here.
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
@@ -47,6 +40,6 @@ What are the project requirements/dependencies? Where are they listed? A require
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
-## Usage
+## implement5.py
 How does one go about using it?
 Provide various use cases and code examples here.
