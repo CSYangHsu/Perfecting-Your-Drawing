@@ -19,19 +19,19 @@ The formula can actually fit all kinds of curves from conic section.
 
 
 ### demo for circle
-- test1:
+- example1:
 
 ![Example screenshot11](./img/hand_draw_circle1.png)
 
 ![Example screenshot12](./img/hand_draw_circle1_output.png)
 
-- test2:
+- example2:
 
 ![Example screenshot11](./img/hand_draw_circle2.png)
 
 ![Example screenshot12](./img/hand_draw_circle2_output.png)
 
-- test3:
+- example3:
 
 ![Example screenshot11](./img/hand_draw_circle3.png)
 
@@ -40,19 +40,19 @@ The formula can actually fit all kinds of curves from conic section.
 
 
 ### demo for ellipse
-- test1:
+- example1:
 
 ![Example screenshot11](./img/hand_draw_ellipse1.png)
 
 ![Example screenshot12](./img/hand_draw_ellipse1_output.png)
 
-- test2:
+- example2:
 
 ![Example screenshot11](./img/hand_draw_ellipse2.png)
 
 ![Example screenshot12](./img/hand_draw_ellipse2_output.png)
 
-- test3:
+- example3:
 
 ![Example screenshot11](./img/hand_draw_ellipse3.png)
 
@@ -66,25 +66,25 @@ The formula can actually fit all kinds of curves from conic section.
 
 
 ### demo
-- test1:
+- example1:
 
 ![Example screenshot11](./img/points1.png)
 
 ![Example screenshot12](./img/points1_output.png)
 
-- test2:
+- example2:
 
 ![Example screenshot11](./img/points2.png)
 
 ![Example screenshot12](./img/points2_output.png)
 
-- test3:
+- example3:
 
 ![Example screenshot11](./img/points4.png)
 
 ![Example screenshot12](./img/points4_output.png)
 
-- test4:
+- example4:
 
 ![Example screenshot11](./img/points5.png)
 
