@@ -66,3 +66,32 @@ The formula can actually fit all kinds of curves from conic section.
 
 
 ### demo
+- test1:
+
+![Example screenshot11](./img/points1.png)
+
+![Example screenshot12](./img/points1_output.png)
+
+- test2:
+
+![Example screenshot11](./img/points2.png)
+
+![Example screenshot12](./img/points2_output.png)
+
+- test3:
+
+![Example screenshot11](./img/points3.png)
+
+![Example screenshot12](./img/points3_output.png)
+
+- test4:
+
+![Example screenshot11](./img/points4.png)
+
+![Example screenshot12](./img/points4_output.png)
+
+- test5:
+
+![Example screenshot11](./img/points5.png)
+
+![Example screenshot12](./img/points5_output.png)
