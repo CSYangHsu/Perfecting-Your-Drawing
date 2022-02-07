@@ -5,7 +5,7 @@ Many drawing tools, such as iPad, have a function that when you are drawing a sh
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [implement](#screenshots)
+* [implement](#implement)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
