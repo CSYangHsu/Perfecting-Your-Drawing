@@ -7,6 +7,22 @@ Many drawing tools, such as iPad, have a function that when you are drawing a sh
 
 ## implement.py
 asdasdasd
+dklafl
+dafadf
+
+
+adfadf
+daf
+adf
+ad
+fa
+dfa
+df
+ad
+fa
+df
+daf
+af
 
 ## implement5.py
 asdasdasd
