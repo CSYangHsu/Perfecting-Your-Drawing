@@ -80,17 +80,11 @@ The formula can actually fit all kinds of curves from conic section.
 
 - test3:
 
-![Example screenshot11](./img/points3.png)
-
-![Example screenshot12](./img/points3_output.png)
-
-- test4:
-
 ![Example screenshot11](./img/points4.png)
 
 ![Example screenshot12](./img/points4_output.png)
 
-- test5:
+- test4:
 
 ![Example screenshot11](./img/points5.png)
 
