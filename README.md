@@ -20,7 +20,9 @@ The formula can actually fit all kinds of curves from conic section.
 
 ### demo for circle
 - test1:
-![Example screenshot](./img/case5.png)![Example screenshot](./img/case5_output.png)
+
+![Example screenshot](./img/case5.png)
+![Example screenshot](./img/case5_output.png)
 
 
 
