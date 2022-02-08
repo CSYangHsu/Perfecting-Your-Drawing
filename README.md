@@ -14,7 +14,8 @@ Many drawing tools, such as iPad, have a function that when you are drawing a sh
 uses "numpy.linalg.lstsq" to solve the least square problem.
 
 - to find best fitting ellipse:  
-using least square algorithm with the formula   " c1 x^2 + c2 xy + c3 y^2 + c4 x + c5 y  =  1 ".  
+using least square algorithm with the formula   
+" c1 x^2 + c2 xy + c3 y^2 + c4 x + c5 y  =  1 ".  
 The formula can actually fit all kinds of curves from conic section.
 
 
