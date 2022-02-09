@@ -8,11 +8,6 @@ Many drawing tools, such as iPad, have a function that when you are drawing a sh
 
 
 
-
-https://user-images.githubusercontent.com/86723888/153242357-727e216b-bbc3-48b5-ab18-b952909e5bd3.mp4
-
-
-
 ## implement
 ### introduce
 - to find best fitting circle:  
