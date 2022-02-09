@@ -6,6 +6,7 @@ Many drawing tools, such as iPad, have a function that when you are drawing a sh
 * [implement.py](#implement)
 * [implement5.py](#implement5)
 
+![points2](https://user-images.githubusercontent.com/86723888/153241796-055084eb-5b9b-4fc4-a050-5d88202fe728.png)
 
 
 ## implement
