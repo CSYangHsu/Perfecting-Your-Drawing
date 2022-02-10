@@ -9,9 +9,14 @@ we need to find out what c1, c2 and r are so that
 is minimum for the given data (x1, y1),(x2, y2), . . . ,(xm, ym).  
   
   
+  
+ 
 The above problem is nonlinear, which is hard to solve. But we can approximate it by rewriting (1) with  
 ![image](https://user-images.githubusercontent.com/86723888/153364853-bddbac53-246b-4aa1-afce-04be47535581.png)  
 for c3 = r^2 − (c1)^2 - (c2)^2　 , and making c1, c2, c3 independent variables.  
+  
+   
+   
 To transform the min f(c1,c2,c3) into matrix form. 　Let  
 ![image](https://user-images.githubusercontent.com/86723888/153365259-b7b70e00-33c4-4f4d-82ca-d5db978e0ee5.png),  
 The original problem is to solve an over-determinded system, Ax = b.  
