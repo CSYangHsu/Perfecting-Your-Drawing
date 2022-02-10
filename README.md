@@ -1,5 +1,21 @@
 # Perfecting-Your-Drawing
-Many drawing tools, such as iPad, have a function that when you are drawing a shape by hand, they will guess what it is, and make the best fit one to replace it. For example, if you draw a lopsided circle, it will produce a perfect one for it. In this project, i do that using the magic from linear algebra.
+Many drawing tools, such as iPad, have a function that when you are drawing a shape by hand, they will guess what it is, and make the best fit one to replace it. For example, if you draw a lopsided circle, it will produce a perfect one for it. In this project, i do that using the magic from linear algebra.  
+
+## Algorithm
+The used algorithm is based on the least square method. For example,to fit a circle,  
+![image](https://user-images.githubusercontent.com/86723888/153364598-f3b6ccd5-517f-4522-8d44-4a78b58d0662.png)  
+we need to find out what c1, c2 and r are so that  
+![image](https://user-images.githubusercontent.com/86723888/153364708-0ac23f24-98f1-4231-a81d-de941a54ae28.png)  
+is minimum for the given data (x1, y1),(x2, y2), . . . ,(xm, ym).  
+The above problem is nonlinear, which is hard to solve. But we can approximate it by rewriting (1) with  
+![image](https://user-images.githubusercontent.com/86723888/153364853-bddbac53-246b-4aa1-afce-04be47535581.png)  
+for c3 = r^2 − (c1)^2 - (c2)^2　 , and making c1, c2, c3 independent variables.  
+To transform the min f(c1,c2,c3) into matrix form. Let  
+![image](https://user-images.githubusercontent.com/86723888/153365259-b7b70e00-33c4-4f4d-82ca-d5db978e0ee5.png),  
+The original problem is to solve an over-determinded system, Ax = b.  
+The problem is also called a least square problem, which can be solved by the normal equation A^T A x = A^T b.
+
+
 
 
 ## Table of Contents
