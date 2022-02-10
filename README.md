@@ -2,7 +2,7 @@
 Many drawing tools, such as iPad, have a function that when you are drawing a shape by hand, they will guess what it is, and make the best fit one to replace it. For example, if you draw a lopsided circle, it will produce a perfect one for it. In this project, i do that using the magic from linear algebra.  
 
 ## Algorithm
-The used algorithm is based on the least square method. For example,to fit a circle,  
+The used algorithm is based on the least square method. For example, to fit a circle,  
 ![image](https://user-images.githubusercontent.com/86723888/153364598-f3b6ccd5-517f-4522-8d44-4a78b58d0662.png)  
 we need to find out what c1, c2 and r are so that  
 ![image](https://user-images.githubusercontent.com/86723888/153364708-0ac23f24-98f1-4231-a81d-de941a54ae28.png)  
