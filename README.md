@@ -27,7 +27,7 @@ The problem is also called a least square problem, which can be solved by the no
 
 
 ## implement
-### introduce
+### Introduce
 - to find best fitting circle:  
 uses "numpy.linalg.lstsq" to solve the least square problem.
 
@@ -37,7 +37,7 @@ using least square algorithm with the formula
 The formula can actually fit all kinds of curves from conic section.
 
 
-### demo for circle
+### Demo for circle
 - example1:
 
 ![Example screenshot11](./img/hand_draw_circle1.png)
@@ -58,7 +58,7 @@ The formula can actually fit all kinds of curves from conic section.
 
 
 
-### demo for ellipse
+### Demo for ellipse
 - example1:
 
 ![Example screenshot11](./img/hand_draw_ellipse1.png)
@@ -80,11 +80,11 @@ The formula can actually fit all kinds of curves from conic section.
 
 
 ## implement5
-### introduce
+### Introduce
 - find the minimum enclosing circle for the given points.
 
 
-### demo
+### Demo
 - example1:
 
 ![Example screenshot11](./img/points1.png)
