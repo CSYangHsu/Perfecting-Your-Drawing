@@ -7,6 +7,8 @@ The used algorithm is based on the least square method. For example, to fit a ci
 we need to find out what c1, c2 and r are so that  
 ![image](https://user-images.githubusercontent.com/86723888/153364708-0ac23f24-98f1-4231-a81d-de941a54ae28.png)  
 is minimum for the given data (x1, y1),(x2, y2), . . . ,(xm, ym).  
+  
+  
 The above problem is nonlinear, which is hard to solve. But we can approximate it by rewriting (1) with  
 ![image](https://user-images.githubusercontent.com/86723888/153364853-bddbac53-246b-4aa1-afce-04be47535581.png)  
 for c3 = r^2 − (c1)^2 - (c2)^2　 , and making c1, c2, c3 independent variables.  
