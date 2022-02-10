@@ -20,7 +20,7 @@ for c3 = r^2 − (c1)^2 - (c2)^2　 , and making c1, c2, c3 independent variable
 To transform the min f(c1,c2,c3) into matrix form. 　Let  
 ![image](https://user-images.githubusercontent.com/86723888/153365259-b7b70e00-33c4-4f4d-82ca-d5db978e0ee5.png),  
 The original problem is to solve an over-determinded system, Ax = b.  
-The problem is also called a least square problem, which can be solved by the normal equation A^T A x = A^T b.
+The problem is also called a least square problem, which can be solved by the normal equation (A^T) A x = (A^T) b.
 
 
 
